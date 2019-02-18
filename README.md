@@ -1,5 +1,5 @@
 # bitcon-average-api
-simple single page app to fetch crypto currencies data from https://bitcoinaverage.com/ using their api
+simple single page app built on node, javascript and express to fetch crypto currencies data from https://bitcoinaverage.com/ using their api
 
 
 Following npm packages are required to run this project
